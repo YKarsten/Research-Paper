@@ -1,7 +1,11 @@
 # Research-Paper
-Summary of relevant skills from publishing a scientific paper
-
 I'm transitioning from a career in neuroscience to becoming a data analyst. As many of the skills I've developed as a scientist are transferable to data analysis I'd like to showcase relevant skills as part of my portfolio:
+
+## Summary
+[This scientific research paper](JOE220204.pdf) has been authored by me and written with colleagues from the University Hospital in Hamburg and the Center for Neurodegenerative Diseases in Hamburg. It's about behavioral and molecular neurobiology.  
+The study investigated the role of a specific estrogen receptor called GPER1 in mice and found that it has different effects in males and females. In male mice lacking GPER1, anxiety was reduced, while in female mice, the fear response was increased, especially when estrogen levels were high. Both male and female mice with GPER1 deficiency had problems with spatial learning and memory. The study also found changes in brain activity and certain proteins in these mice, suggesting that GPER1 plays a complex and sex-specific role in brain function, which could be related to cognitive and mood disorders.
+
+## Skills
 
 1. **Analytical Skills:** Emphasize your strong analytical skills developed during your career as a scientist. Mention your ability to critically analyze complex data, identify patterns, and draw meaningful conclusions. Explain how these skills can be applied to data analysis in various contexts.
 
