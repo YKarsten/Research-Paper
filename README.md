@@ -15,15 +15,15 @@ The study investigated the role of a specific estrogen receptor called GPER1 in 
 
 4. **Programming Skills:** If you have experience with programming languages like Python or R in your research, make sure to include this in your portfolio. Provide examples of code you've written for data analysis, visualization, or modeling.
 
-5. **Data Visualization:** The figures in the paper were created with GraphPad Prism. Showcase your ability to create effective data visualizations. Include graphs, charts, and figures from your research paper to demonstrate your skills in presenting data in a clear and informative way.
+5. **Data Visualization:** The figures in the paper were created with GraphPad Prism. I'd like to showcase figure 2, as it was a difficult task to visuallize 10 consecutive datapoints for 2 sexes, 2 genotypes and 2 levels of the cycle stage into a single plot while pointing out specific datapoints. It might not be the most fancy type of plot, but it took a lot of effort to effectively portray the idea we had for the data.
 
 6. **Machine Learning and Modeling:** If you have used machine learning or modeling techniques in your research, mention this in your portfolio. Explain the algorithms you used and their applications, if relevant.
 
-7. **Domain Knowledge:** Your background in neuroscience can be an asset in certain data analysis roles, especially in fields like healthcare or life sciences. Highlight your domain-specific knowledge and how it can be leveraged in data analysis within that industry.
+7. **Domain Knowledge:** The field of research was in Behavioral Biology with special emphasiz on Endocrinology. It also focused on sex differences in mammals which is a research topic very relevant for the healthcare and medicine field. As male and female bodies react differently to certain drugs and treatments its important to include both sexes in basic research, unfortunately most research is being conducted in male systems, because scientists fear uncertainty of their data due to hormonal variance in female systems.
 
 8. **Problem-Solving Skills:** Describe how you tackled complex research questions in neuroscience, emphasizing your problem-solving abilities. Employers value individuals who can apply critical thinking and creativity to solve data-related challenges.
 
-9. **Communication Skills:** Mention your experience in presenting your research findings to both technical and non-technical audiences. Effective communication is crucial for data analysts when conveying insights to stakeholders.
+9. **Communication Skills:** The data of this research paper stems in part from my master thesis, which was a joined collaboration from my hometown university in Oldenburg, the university clinic in Hamburg and the center for neurodegenerative diseases in Hamburg. As all parties were eager to know about the progress of my thesis I had the opportunity to present my progress and the final thesis to a scientific community with a shared background in biology and medicine, but each with their own specialized expertise.
 
 10. **Your Research Paper:** Incorporate your published paper into your portfolio. Summarize the research question, methodology, key findings, and the impact of your work. If applicable, discuss any data analysis techniques you used in your research.
 
