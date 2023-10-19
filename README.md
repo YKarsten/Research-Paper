@@ -9,18 +9,60 @@ The study investigated the role of a specific estrogen receptor called GPER1 in 
 
 ## Skills
 
-1. **Analytical Skills:** Working on this scientific project required meticulous planning and careful analysis of the generated data. As I was responsible for the behavioral testing and analysis, I had to plan experiments in a way that reduce the amount of animals used while still being able to produce statistically significant results. Being limited by the amount of data I could generate and the nonlinear relationship we observed between sexes and estrogen levels I had to critically analyze complex data, identify patterns, and draw meaningful conclusions. Finding patterns and meaningful implications in big datasets is a skill that I can transfer from science to data analysis.
+1. **Analytical Skills** 
 
-2. **Quantitative and Statistical Skills:** As a neuroscientist, I have experience with statistical analysis of experimental data. I have experience with a variety paramteric and non-parametric tests, like student's t-test, ANOVA, MANOVA, linear regression, chi-square test, Mann-Whitney U Test, Wilcoxon Signed-Rank Test and Kruskal-Wallis Test. A applied these tests for different scientific projects throughout my studies. For the present study we used the Kolmogorov-Smirnov Test for normal distribution and ANOVA analysis for behavioral data. To apply these tests I have used mainly SPSS, Graphpad Prism, Excel and R-Studio.
+The execution of this scientific project demanded meticulous planning and a nuanced approach to data analysis. Taking charge of both behavioral testing and analysis, I strategized experiments to optimize results while minimizing the use of animals—a testament to my commitment to ethical research practices.
 
-3. **Data Management:** All of the behavioral experiments I conducted were video recorded for subsequent analysis and documented on paper protocols, in my personal labbook and a shared digital labbook. This way the data is well archived and organized in a way that other scientists can pick up were I left to continue on the project. Each video file I recorded was named according to a schema that represented the most important information: animalID - Experiment Abbreviation - Timestamp. After analysis of the video files I created corresponding excel files that stored the relevant data for each experiment, this file shared the same naming convention without the animalID field. To keep track of the animal experiments, their sex, birthdate, age during the experiment and especially their cycle stage I created a common excel file for all animals. Properly named files were stored in a folder structure to represent the cohorts of animals as they were tested. Since I didn't rely on legacy code or files I was able to build a data management system I'm well used to as I use it for my personal files as well.  
+Confronted with limitations on data generation and navigating the intricacies of the non-linear relationship between sexes and estrogen levels, I engaged in rigorous critical analysis of complex datasets. Identifying patterns and extracting meaningful conclusions from extensive datasets underscored my proficiency in discerning subtle nuances, a skill seamlessly transferable from the realm of science to the dynamic landscape of data analysis.
 
-4. **Programming Skills:** If you have experience with programming languages like Python or R in your research, make sure to include this in your portfolio. Provide examples of code you've written for data analysis, visualization, or modeling.
+2. **Quantitative and Statistical Skills**  
 
-5. **Data Visualization:** The figures in the paper were created with GraphPad Prism. I'd like to showcase figure 2, as it was a difficult task to visuallize 10 consecutive datapoints for 2 sexes, 2 genotypes and 2 levels of the cycle stage into a single plot while pointing out specific datapoints. It might not be the most fancy type of plot, but it took a lot of effort to effectively portray the idea we had for the data.
+My expertise in statistical analysis spans a diverse range of parametric and non-parametric tests, acquired through extensive experience as a neuroscientist. Proficient in tests such as Student's t-test, ANOVA, MANOVA, linear regression, chi-square test, Mann-Whitney U Test, Wilcoxon Signed-Rank Test, and Kruskal-Wallis Test, I have seamlessly applied these methodologies across various scientific projects during my academic journey.
 
-6. **Domain Knowledge:** The field of research was in Behavioral and Molecular Neuro-Biology with special emphasiz on Endocrinology. It also focused on sex differences in mammals which is a research topic very relevant for the healthcare and medicine field. As male and female bodies react differently to certain drugs and treatments its important to include both sexes in basic research, unfortunately most research is being conducted in male systems, because scientists fear uncertainty of their data due to hormonal variance in female systems.
+In the context of the present study, statistical analyses involved the Kolmogorov-Smirnov Test for assessing normal distribution and ANOVA for behavioral data. I adeptly navigated statistical software platforms, including SPSS, GraphPad Prism, Excel, and R-Studio, demonstrating versatility in my analytical toolkit.
 
-7. **Problem-Solving Skills:** Due to preliminary work in the field we had a general idea to investigate the sex differences in mice with a focus on behavioral and cognitive abilities. After the aquisition of behavioral molecular data we found sex and hormone level effects, but they were non-linear and very difficult to interpret. To come up with a conclusive story for our findings I created different visualizations of the same data which focused on specific details of the data. This way it was easier to communicate ideas and approaches to this data with colleagues and come up with the story that made it to the paper. Communicating complex relationships in a visual manner helped me solve problems in this project.
+3. **Data Visualization**  
 
-8. **Communication Skills:** The data of this research paper stems in part from my master thesis, which was a joined collaboration from my hometown university in Oldenburg, the university clinic in Hamburg and the center for neurodegenerative diseases in Hamburg. As all parties were eager to know about the progress of my thesis I had the opportunity to present my progress and the final thesis to a scientific community with a shared background in biology and medicine, but each with their own specialized expertise. After my master thesis was concluded the cooperation grew, as I moved to another lab in Magdeburg, where I got to exchange new ideas with my PhD colleagues.
+I utilized GraphPad Prism to craft the figures in the paper, with a specific focus on showcasing Figure 2. This figure presented a unique challenge—visualizing 10 consecutive datapoints for two sexes, two genotypes, and two levels of the cycle stage within a single plot while emphasizing specific datapoints.
+
+While the resulting plot may not be the most elaborate, its creation demanded a substantial effort to effectively convey our data's underlying concept. To address this complexity, we employed eight subplots and incorporated colored arrows strategically. This approach not only enhanced the visual appeal but also directed the reader's attention to the pivotal datapoints, reinforcing the significance of our findings.   
+
+   ![](fig2.png)
+
+This screenshot provides a glimpse into the intricacies of the visualization and underscores my commitment to conveying data in a clear and compelling manner.
+
+4. **Problem-Solving Skills**  
+
+Navigating the complexities of our research, I initially explored sex differences in mice, concentrating on behavioral and cognitive abilities. Post-acquiring behavioral molecular data, we encountered non-linear and challenging-to-interpret effects.
+
+To distill a coherent narrative, I crafted diverse visualizations focusing on specific data facets. These visual aids not only facilitated communication of ideas and approaches with colleagues but also played a pivotal role in shaping the cohesive story presented in the paper. The ability to convey intricate relationships visually proved instrumental in problem-solving throughout the project.
+
+5. **Communication Skills**  
+
+My adept communication skills were honed through collaborative ventures spanning my master's thesis. This joint effort involved my hometown university in Oldenburg, the university clinic in Hamburg, and the center for neurodegenerative diseases in Hamburg.
+
+Regular progress updates and final thesis presentations became opportunities to engage with a diverse scientific community. I effectively communicated complex concepts to audiences with backgrounds in biology and medicine, each possessing distinct areas of expertise.
+
+Post-master's, my collaborative endeavors expanded as I transitioned to a lab in Magdeburg. Here, interactions with PhD colleagues facilitated the exchange of novel ideas, contributing to a dynamic intellectual environment.
+
+6.  **Data Management**  
+
+My approach to data management mirrors my commitment to meticulousness and organization in scientific endeavors. All behavioral experiments under my purview were meticulously recorded through video documentation, providing a comprehensive basis for subsequent analysis. These records were not only confined to digital formats but were also meticulously detailed in paper protocols and my personal labbook, ensuring redundancy for data security.
+
+The organization of this data is a testament to my foresight in facilitating seamless project continuity. By employing a shared digital labbook alongside personal documentation, I ensured that subsequent researchers could seamlessly pick up where I left off, fostering collaboration and knowledge transfer within the scientific community.
+
+The nomenclature employed in file naming exemplifies my dedication to clarity and systematic organization. Each video file adheres to a structured naming schema, encompassing crucial information such as animalID, Experiment Abbreviation, and Timestamp. Post-video analysis, corresponding Excel files were meticulously generated, sharing the same naming conventions sans the animalID field. This strategy not only streamlined the storage process but also facilitated easy cross-referencing of experimental data.
+
+To maintain a holistic understanding of each experiment's context, I crafted a centralized Excel file encompassing essential details such as animal sex, birthdate, age during the experiment, and, notably, their cycle stage. This comprehensive approach not only facilitated individual experiment analyses but also provided a nuanced view of the animals' life stages and conditions.
+
+A distinctive feature of my data management methodology is the absence of reliance on legacy code or files. This deliberate choice allowed me to construct a robust and adaptable data management system, a system seamlessly integrated into my personal file organization practices. This strategic approach not only assures compatibility but also underscores my commitment to employing systems that are not only effective but also intuitive and user-friendly.
+
+7. **Domain Knowledge**
+
+My expertise lies in the interdisciplinary realm of Behavioral and Molecular Neuro-Biology, with a pronounced emphasis on Endocrinology. This specialization stems from a robust foundation in basic neurobiological research, acquired through my undergraduate studies in auditory research. The culmination of this knowledge allowed me to seamlessly apply my skills to the intricate domain of endocrinology, where I delved into the complexities of behavioral research.
+
+My research focus extended to the exploration of sex differences in mammals, a topic with profound implications for the healthcare and medicine fields. Recognizing the nuanced responses of male and female bodies to various drugs and treatments, I underscored the importance of inclusive research practices. It is crucial to acknowledge and address the divergent physiological responses between genders to advance our understanding and optimize healthcare strategies.
+
+Despite the significance of gender-inclusive studies, there is a prevailing bias towards male-centric research models. This bias, driven by concerns over the potential uncertainty introduced by hormonal variations in female systems, poses a challenge to the comprehensive understanding of medical interventions. My commitment to overcoming such biases is reflected in my research, where I navigated the intricate landscape of sex-specific responses to uncover valuable insights.
+
+By combining my foundational knowledge in auditory research, extensive experience in behavioral studies, and a focus on endocrinology, I have developed a unique perspective that transcends traditional disciplinary boundaries. This perspective not only enriches my approach to scientific inquiries but also positions me as a valuable contributor to the data analysis landscape, where a holistic understanding of diverse research domains is increasingly paramount.
