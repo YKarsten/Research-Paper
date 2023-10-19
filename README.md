@@ -46,14 +46,23 @@ Regular progress updates and final thesis presentations became opportunities to 
 Post-master's, my collaborative endeavors expanded as I transitioned to a lab in Magdeburg. Here, interactions with PhD colleagues facilitated the exchange of novel ideas, contributing to a dynamic intellectual environment.
 
 6.  **Data Management**  
+In meticulously documenting behavioral experiments, I utilized video recordings alongside paper and digital labbooks for redundancy. This comprehensive approach ensures a seamless transition for subsequent researchers, fostering collaboration.
+
+The systematic file naming convention, including animalID, Experiment Abbreviation, and Timestamp, enhances clarity and facilitates cross-referencing during subsequent analyses. Corresponding Excel files follow this convention, omitting the animalID field.
+
+A centralized Excel file captures crucial experiment details, including animal sex, birthdate, age, and cycle stage. This holistic approach provides contextual insights for each experiment.
+
+The folder structure reflects cohorts of animals tested, aiding swift data retrieval. My data management system, absent of reliance on legacy code, is adaptable, intuitive, and mirrors my commitment to organizational excellence.
+
+----------------
 
 My approach to data management mirrors my commitment to meticulousness and organization in scientific endeavors. All behavioral experiments under my purview were meticulously recorded through video documentation, providing a comprehensive basis for subsequent analysis. These records were not only confined to digital formats but were also meticulously detailed in paper protocols and my personal labbook, ensuring redundancy for data security.
 
 The organization of this data is a testament to my foresight in facilitating seamless project continuity. By employing a shared digital labbook alongside personal documentation, I ensured that subsequent researchers could seamlessly pick up where I left off, fostering collaboration and knowledge transfer within the scientific community.
 
-The nomenclature employed in file naming exemplifies my dedication to clarity and systematic organization. Each video file adheres to a structured naming schema, encompassing crucial information such as animalID, Experiment Abbreviation, and Timestamp. Post-video analysis, corresponding Excel files were meticulously generated, sharing the same naming conventions sans the animalID field. This strategy not only streamlined the storage process but also facilitated easy cross-referencing of experimental data.
+The nomenclature employed in file naming exemplifies my dedication to clarity and systematic organization. Each video file adheres to a structured naming schema, encompassing crucial information such as animalID, Experiment Abbreviation, and Timestamp. Post-video analysis, corresponding Excel files were meticulously generated. [See here for an example](WM-63 Tranfer Trials.xlsx). This strategy not only streamlined the storage process but also facilitated easy cross-referencing of experimental data.
 
-To maintain a holistic understanding of each experiment's context, I crafted a centralized Excel file encompassing essential details such as animal sex, birthdate, age during the experiment, and, notably, their cycle stage. This comprehensive approach not only facilitated individual experiment analyses but also provided a nuanced view of the animals' life stages and conditions.
+To maintain a holistic understanding of each experiment's context, I crafted a [centralized Excel](Behavior Übersicht.xlsx) file encompassing essential details such as animal sex, birthdate, age during the experiment, and, notably, their cycle stage. This comprehensive approach not only facilitated individual experiment analyses but also provided a nuanced view of the animals' life stages and conditions.
 
 A distinctive feature of my data management methodology is the absence of reliance on legacy code or files. This deliberate choice allowed me to construct a robust and adaptable data management system, a system seamlessly integrated into my personal file organization practices. This strategic approach not only assures compatibility but also underscores my commitment to employing systems that are not only effective but also intuitive and user-friendly.
 
