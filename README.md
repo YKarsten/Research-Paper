@@ -2,7 +2,7 @@
 
 ## Background
 I'm transitioning from a career in neuroscience to becoming a data analyst. As many of the skills I've developed as a scientist are transferable to data analysis I'd like to showcase relevant skills as part of my portfolio:
-[This scientific research paper](JOE220204.pdf) has been authored by me and written in collaboration with colleagues from the [Institute of Neuroanatomy](https://www.uke.de/english/departments-institutes/institutes/neuroanatomy/index.html) and the [Research Group Behavioral Biology](https://www.uke.de/english/departments-institutes/institutes/research-group-behavioral-biology/index.html) of the Center for Neurodegenerative Diseases in Hamburg. It's about behavioral and molecular neurobiology.  
+[This scientific research paper](JOE220204.pdf) has been authored by me and written in collaboration with colleagues from the [Institute of Neuroanatomy](https://www.uke.de/english/departments-institutes/institutes/neuroanatomy/index.html) and the [Research Group Behavioral Biology](https://www.uke.de/english/departments-institutes/institutes/research-group-behavioral-biology/index.html) of the Center for Neurodegenerative Diseases in Hamburg. It's about behavioral neurobiology, molecular neurobiology, and electrophysiology.  
 
 ## Summary
 The study investigated the role of a specific estrogen receptor called GPER1 in mice and found that it has different effects in males and females. In male mice lacking GPER1, anxiety was reduced, while in female mice, the fear response was increased, especially when estrogen levels were high. Both male and female mice with GPER1 deficiency had problems with spatial learning and memory. The study also found changes in brain activity and certain proteins in these mice, suggesting that GPER1 plays a complex and sex-specific role in brain function, which could be related to cognitive and mood disorders.
@@ -27,7 +27,7 @@ I utilized GraphPad Prism to craft the figures in the paper, with a specific foc
 
 While the resulting plot may not be the most elaborate, its creation demanded a substantial effort to effectively convey our data's underlying concept. To address this complexity, we employed eight subplots and incorporated colored arrows strategically. This approach not only enhanced the visual appeal but also directed the reader's attention to the pivotal datapoints, reinforcing the significance of our findings.   
 
-   ![](fig2.png)
+   ![](images/fig2.png)
 
 This screenshot provides a glimpse into the intricacies of the visualization and underscores my commitment to conveying data in a clear and compelling manner.
 
@@ -46,25 +46,12 @@ Regular progress updates and final thesis presentations became opportunities to 
 Post-master's, my collaborative endeavors expanded as I transitioned to a lab in Magdeburg. Here, interactions with PhD colleagues facilitated the exchange of novel ideas, contributing to a dynamic intellectual environment.
 
 6.  **Data Management**  
-In meticulously documenting behavioral experiments, I utilized video recordings alongside paper and digital labbooks for redundancy. This comprehensive approach ensures a seamless transition for subsequent researchers, fostering collaboration.
 
-The systematic file naming convention, including animalID, Experiment Abbreviation, and Timestamp, enhances clarity and facilitates cross-referencing during subsequent analyses. Corresponding Excel files follow this convention, omitting the animalID field.
+All behavioral experiments under my purview were meticulously recorded through video documentation, providing a comprehensive basis for subsequent analysis. These records were not only confined to digital formats but were also meticulously detailed in paper protocols and my personal labbook, ensuring redundancy for data security. By employing a shared digital labbook alongside personal documentation, I ensured that subsequent researchers could seamlessly pick up where I left off, fostering collaboration and knowledge transfer within the scientific community.
 
-A centralized Excel file captures crucial experiment details, including animal sex, birthdate, age, and cycle stage. This holistic approach provides contextual insights for each experiment.
+The nomenclature employed in file naming exemplifies my dedication to clarity and systematic organization. Each video file adheres to a structured naming schema, encompassing crucial information such as animalID, Experiment Abbreviation, and Timestamp. Post-video analysis, corresponding Excel files were meticulously generated. [See here for an example](excel_sheets/WM_63_Tranfer_Trials.xlsx). This strategy not only streamlined the storage process but also facilitated easy cross-referencing of experimental data.
 
-The folder structure reflects cohorts of animals tested, aiding swift data retrieval. My data management system, absent of reliance on legacy code, is adaptable, intuitive, and mirrors my commitment to organizational excellence.
-
-----------------
-
-My approach to data management mirrors my commitment to meticulousness and organization in scientific endeavors. All behavioral experiments under my purview were meticulously recorded through video documentation, providing a comprehensive basis for subsequent analysis. These records were not only confined to digital formats but were also meticulously detailed in paper protocols and my personal labbook, ensuring redundancy for data security.
-
-The organization of this data is a testament to my foresight in facilitating seamless project continuity. By employing a shared digital labbook alongside personal documentation, I ensured that subsequent researchers could seamlessly pick up where I left off, fostering collaboration and knowledge transfer within the scientific community.
-
-The nomenclature employed in file naming exemplifies my dedication to clarity and systematic organization. Each video file adheres to a structured naming schema, encompassing crucial information such as animalID, Experiment Abbreviation, and Timestamp. Post-video analysis, corresponding Excel files were meticulously generated. [See here for an example](WM-63 Tranfer Trials.xlsx). This strategy not only streamlined the storage process but also facilitated easy cross-referencing of experimental data.
-
-To maintain a holistic understanding of each experiment's context, I crafted a [centralized Excel](Behavior Übersicht.xlsx) file encompassing essential details such as animal sex, birthdate, age during the experiment, and, notably, their cycle stage. This comprehensive approach not only facilitated individual experiment analyses but also provided a nuanced view of the animals' life stages and conditions.
-
-A distinctive feature of my data management methodology is the absence of reliance on legacy code or files. This deliberate choice allowed me to construct a robust and adaptable data management system, a system seamlessly integrated into my personal file organization practices. This strategic approach not only assures compatibility but also underscores my commitment to employing systems that are not only effective but also intuitive and user-friendly.
+To maintain a holistic understanding of each experiment's context, I crafted a [centralized Excel file](excel_sheets/Behavior_Uebersicht.xlsx) encompassing essential details such as animal sex, birthdate, age during the experiment, and, notably, their cycle stage. This comprehensive approach not only facilitated individual experiment analyses but also provided a nuanced view of the animals' life stages and conditions.
 
 7. **Domain Knowledge**
 
